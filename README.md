@@ -11,7 +11,7 @@ Listed here are a variety of resources I've encountered through my journey of le
 - **Python Programming:** Master Python, the go-to language for data scientists and AI engineers.
 - **Data Science:** Dive into data analysis, visualization, and the tools of the trade.
 - **Machine Learning (ML):** Discover algorithms and techniques for predictive analytics.
-- **Deep Learning (DL):** Delve into neural networks, convolutional and recurrent networks.
+- **Deep Learning (DL):** Delve into neural networks, including CNNs and RNNs.
 
 🔗 Resource Categories:
 
