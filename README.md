@@ -24,9 +24,7 @@ Listed here are a variety of resources I've encountered through my journey of le
 - **[Mathematics](Mathematics.md):** Explore foundational mathematical concepts that underpin data science and AI.
 - **Statistics:** Delve into statistical principles crucial for data analysis and modeling.
 - **Python Programming:** Master Python, the go-to language for data scientists and AI engineers.
-- **Data Science:** Dive into data analysis, visualization, and the tools of the trade.
 - **[Machine Learning](Machine%20Learning.md) (ML):** Discover algorithms and techniques for predictive analytics.
-- **Deep Learning (DL):** Delve into neural networks, including CNNs and RNNs.
 
 🔗 Resource Categories:
 
